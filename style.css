@@ -18,4 +18,20 @@ footer{
 	background-color: 96CEB4;
 	text-align: center;
 	padding: 50px;
+
+ background-image: url(images/postwar.webp);
+ text-align: center;
+ padding: 10px;
+}
+
+footer p{
+ margin: 0;
+ color:  white;
+ font-size: 20px;
+}
+
+
+footer a:hover{
+ background-color: white;
+ color: black;
 }
